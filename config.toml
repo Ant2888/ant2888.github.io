@@ -26,7 +26,7 @@ defaultContentLanguageInSubdir = false
   organization = "Stony Brook University"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "lp.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "anthony.roy@stonybrook.edu"
   office_hours = "Wednesday 10:00am to 1:00pm"
 
