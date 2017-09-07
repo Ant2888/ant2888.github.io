@@ -24,4 +24,4 @@ weight = 1
 
 # About Me
 
-I've been programming since I was around 13 years old. I first learned through modifying various games and got hands on experience in high school through Robotics. I love programming and will typically be either reversing things or learning new technologies. I am currently aspiring to be a Software Engineer following my degree (i no speak well pls forguv).
+I've been programming since I was around 13 years old. I first learned through modifying various games and got hands on experience in high school through Robotics. I love programming and will typically be either reversing things or learning new technologies. I am currently aspiring to be a Software Engineer following my degree.
